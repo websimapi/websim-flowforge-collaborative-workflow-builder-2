@@ -7,7 +7,7 @@ import ReactFlow, {
   useEdgesState,
   addEdge,
   MiniMap,
-} from 'react-flow-renderer';
+} from 'reactflow';
 
 // Initialize WebsimSocket for multiplayer
 const room = new WebsimSocket();
